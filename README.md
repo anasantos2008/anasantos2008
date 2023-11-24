@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**anasantos2008/anasantos2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bem Vindos
+    • 👋 Meu nome é Ana Paula Ratz
+    • ❤️‍🩹 15 anos
+    • 🌱 Estudo no Colégio Estadual do Campo Reassentamento São Marcos
+    • 💗 Ibema-PR
+    • 🇧🇷 Brasil
+    • 🎞 Filme preferido: Harry Potter
+    • 🍝 Comida: Macarronada
+    • 💜🖤 Cor preferida: Roxo e Preto
+    • 🎶 Música preferida: All of Me
+    • ♓️ Peixes
+    • 🪐 Planeta: Saturno
+    • Fruta: 🍉 e 🍇
+    • São Paulo FC 🇾🇪
+➙ Gosto de assistir filmes e jogar jogos. ➙ Espero aprender muito com o GitHub. ➙ PROF: Mayara Pereira Koch
+   💛✨🌻
